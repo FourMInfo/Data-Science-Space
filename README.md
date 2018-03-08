@@ -1,2 +1,2 @@
 # Data Science Space
-Data Science Space including Ammonite Scripts and Knowledge Base Wiki 
+Ammonite (and other) Scripts for deploying data science container workloads.
